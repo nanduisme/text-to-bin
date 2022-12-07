@@ -1,0 +1,11 @@
+Input {
+    margin-top: 1;
+}
+
+.output {
+    height: auto;
+    margin: 1;
+    padding: 0 1;
+    height: auto;
+    outline: none;
+}
